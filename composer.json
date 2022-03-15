@@ -1,0 +1,17 @@
+{
+    "name": "drgham.dakhol/design-patterns",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational"
+        }
+    },
+    "authors": [
+        {
+            "name": "DRGHAM100",
+            "email": "drghamdakhol@gmail.com"
+        }
+    ]
+}
