@@ -1,0 +1,3 @@
+النوع Creational
+
+عندي interface وحدة وفي أكتر من كلاس بيعملها implement 

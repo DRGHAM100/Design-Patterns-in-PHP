@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Test\\AbstractFactoryTest::testCanCreateBMWCare":4,"Test\\AbstractFactoryTest::testCanCreateBenzCar":4,"Test\\AbstractFactoryTest::testCanCreateBMWCar":4},"times":{"Test\\AbstractFactoryTest::testCanCreateBMWCare":0.011,"Test\\AbstractFactoryTest::testCanCreateBenzCar":0.001,"Test\\AbstractFactoryTest::testCanCreateBMWCar":0.014}}

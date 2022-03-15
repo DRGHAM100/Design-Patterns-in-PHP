@@ -1,0 +1,19 @@
+{
+    "name": "drgham.dakhol/design-patterns-course",
+    "description": "code examples for design patterns in php",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Drgham Z. Dakhol",
+            "email": "drghamdakhol@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "autoload":{
+        "psr-4": {
+            "Creational\\" : "Creational"
+        }
+    }
+}
