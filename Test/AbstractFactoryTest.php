@@ -32,10 +32,4 @@ class AbstractFactoryTest extends TestCase
         $this->assertInstanceOf(BenzCar::class,$myCar,'Error Msg : Car is not benz');
     }
 
-    // public function testCanCreateBenzCar1()
-    // {
-    //     $myCar = $this->carFactory->createBenzCar();
-
-    //     $this->assertInstanceOf(BenzCar::class,$myCar,'Error Msg : Car is not benz');
-    // }
 }
